@@ -12,3 +12,6 @@
 
 密码
 1. WeChat Pay For 1000 to Get
+
+效果示意图
+![image](https://github.com/user-attachments/assets/9c6afd95-f879-44f4-88b3-1ba7abffb68f)
